@@ -1,0 +1,27 @@
+.header {
+  border: 1px solid #f0f0f0;
+  padding: 4px;
+  border-radius: 4px;
+  min-height: 50px;
+}
+
+.navigation {
+  display: flex;
+  list-style: none;
+  gap: 64px;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
+}
+
+.element {
+  font-size: 32px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.avatar {
+  border-radius: 40%;
+}
