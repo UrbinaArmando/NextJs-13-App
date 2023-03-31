@@ -1,8 +1,10 @@
 .header {
-  border: 1px solid #f0f0f0;
   padding: 4px;
   border-radius: 4px;
   min-height: 50px;
+  position: fixed;
+  background: rgba(29, 29, 36, 0.863);
+  width: 100%;
 }
 
 .navigation {
